@@ -1,0 +1,23 @@
+[
+  {
+    "id": 2,
+    "description": "Netflix Subscription",
+    "amount": 15,
+    "category": "Entertainment",
+    "createdAt": "2024-09-23T13:16:08.268Z"
+  },
+  {
+    "id": 3,
+    "description": "Groceries",
+    "amount": 150,
+    "category": "Food",
+    "createdAt": "2024-09-23T14:01:57.558Z"
+  },
+  {
+    "id": 4,
+    "description": "Netflix Subscription",
+    "amount": 15,
+    "category": "Entertainment",
+    "createdAt": "2024-09-23T14:01:57.837Z"
+  }
+]
